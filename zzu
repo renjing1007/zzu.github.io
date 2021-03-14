@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=350, initial-scale=1.0, maximum-scale=1.0, user-scalable=1.0, user-scalable=no;" />
+<META HTTP-EQUIV="pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Cache-Control" CONTENT="no-cache, must-revalidate">
+<META HTTP-EQUIV="expires" CONTENT="Wed, 26 Feb 2007 08:21:57 GMT">
+<title>郑州大学数据中台2020</title>
+<link rel="stylesheet" type="text/css" href="https://jksb.v.zzu.edu.cn/imagesss/_xwss_2017.css" /><style>
+#bak_0 {MARGIN:0 auto; left: 0;WIDTH: 350px; min-HEIGHT:540px;}
+
+</style>
+<script Language="javascript">
+  function zzjCallOneUrl(us){
+   
+  }
+  var timeID=0;
+var tt1=600;
+tt2=0;
+tt3=0;
+var timeID=setInterval("hnceTimer()",1000);
+
+function hnceTimer(){
+  tt1--;
+  if (tt1>=0){
+  tt2=tt1 % 60;
+  tt3=(tt1-tt2)/60;
+  document.getElementById("tim317").innerHTML=tt3+"分"+tt2+"秒";
+  }else{document.getElementById("tim317").innerHTML="已作废";}
+}
+</script>
+</head>
+<body>
+<form method="POST" name="myform52" action="">
+<div id="bak_0">  
+  <div style="WIDTH: 100%; HEIGHT: 102px;background:url(https://jksb.v.zzu.edu.cn/imagesss/title316b.png);">
+  <div style="width:100%;height:32px;line-height:32px;text-align:right"><a href="https://jksb.v.zzu.edu.cn/vls6sss/zzujksb.dll/logout?ptopid=s3C189FEB99AA4E849EFDAD416AF6F844">
+  <span style="color:#00c;">〖切换账号〗</span></a>　</div></div><div style="width:100%;height:7px;BACKGROUND-IMAGE: url(/images/split5.png)"></div>
+  <div style="WIDTH: 100%; HEIGHT: 90px;"><div style="width:100%;height:32%;line-height:32px;text-align:left;"><span style="font-size:12px;color:#333;">
+  获取时间：</span><span style="font-size:16px;color:#a0a;"> 
+  <script type="text/javascript">
+/*本段函数控制小时、分钟、秒数的双位表示*/
+function checkTime(i) {
+if (i<10)
+{i="0"+i}
+return i
+}
+</script>
+<script type="text/javascript">
+var d = new Date() //新建一个Date对象
+var month = d.getMonth()+1 //获取月份
+var day = d.getDate() //获取日期 
+var hour = d.getHours() //获取小时
+var min = d.getMinutes() //获取分钟
+document.write(month+"月"+day+"日"+checkTime(hour)+":"+checkTime(min))
+</script></span>
+  <span style="font-size:12px;color:#333;">有效期剩余 </span>
+  <span id="tim317" style="font-size:22px;color:#c00;font-weight:500;font-family:黑体;">10分00秒</span>
+  </div><div style="width:100%;height:7px;BACKGROUND-IMAGE: url(/images/split5.png)"></div>
+  <div style="width:100%;min-height:25px;line-height:25px;font-size:14px;color:#333;text-align:center;"><img src="https://xwss6.v.zzu.edu.cn/ben2vm/3/3B7CBE2441A54D4895EC8552BE9726B7.jpg?sid=210306122251313190" style="width:350px;border:0px;" /></div><div style="width:100%;height:7px;BACKGROUND-IMAGE: url(/images/split5.png)"></div><div style="width:100%;min-height:25px;line-height:25px;font-size:18px;color:#00c;font-weight:500;font-family:黑体;">　<span style="color:#00a">信息工程学院　任静</span><br />　通行信息：主校区大门东门.入口<br />　出入身份：郑州大学本科生<br />　<span style="color:#f00"></span></div><div style="width:100%;height:7px;BACKGROUND-IMAGE: url(/images/split5.png)"></div><div style="width:100%;min-height:18px;line-height:18px;font-size:12px;color:#666;text-align:center">郑州大学疫情防控领导小组、保卫处、信息化办公室</div>  
+  
+</div>
+
+<div style="width:1px;height:1px;">
+  <iframe name="zzj_fun_426" id="zzj_fun_426s" src="https://jksb.v.zzu.edu.cn/vls6sss/zzujksb.dll/getsomething?ptopid=s3C189FEB99AA4E849EFDAD416AF6F844&sid=210306122251455661" marginwidth="0" marginheight="0" height="100%"
+    width="100%" scrolling="no" border="0" frameborder="0" allowtransparency="true"></iframe>
+</div>
+<input type="hidden" name="ptopid" value="s3C189FEB99AA4E849EFDAD416AF6F844"><input type="hidden" name="sid" value="210306122251455461"></form>
+
+<div style="width:100%;height:50px;"></div>
+</body>
